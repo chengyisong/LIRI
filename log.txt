@@ -1,0 +1,361 @@
+[2018-12-14T15:07:03.118] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:03.122] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>> NEW COMMAND >>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:03.123] [TRACE] logFile - [Command Log]: undefined
+[2018-12-14T15:07:03.123] [TRACE] logFile - <<<<<<<<<<<<<<<<<< RESPONSE BELOW <<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:03.123] [TRACE] logFile - <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:12.458] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:12.461] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>> NEW COMMAND >>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:12.462] [TRACE] logFile - [Command Log]: concert-this ariana grande
+[2018-12-14T15:07:12.462] [TRACE] logFile - <<<<<<<<<<<<<<<<<< RESPONSE BELOW <<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:12.462] [TRACE] logFile - <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:12.760] [INFO] logFile - Venue: Times Union Center
+[2018-12-14T15:07:12.760] [INFO] logFile - Location: Albany, NY
+[2018-12-14T15:07:12.761] [INFO] logFile - Date: 03/18/2019
+[2018-12-14T15:07:12.761] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.762] [INFO] logFile - Venue: TD Garden
+[2018-12-14T15:07:12.762] [INFO] logFile - Location: Boston, MA
+[2018-12-14T15:07:12.762] [INFO] logFile - Date: 03/20/2019
+[2018-12-14T15:07:12.762] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.763] [INFO] logFile - Venue: KeyBank Center
+[2018-12-14T15:07:12.763] [INFO] logFile - Location: Buffalo, NY
+[2018-12-14T15:07:12.763] [INFO] logFile - Date: 03/22/2019
+[2018-12-14T15:07:12.763] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.764] [INFO] logFile - Venue: Capitol One Arena
+[2018-12-14T15:07:12.764] [INFO] logFile - Location: Washington, DC
+[2018-12-14T15:07:12.764] [INFO] logFile - Date: 03/25/2019
+[2018-12-14T15:07:12.764] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.764] [INFO] logFile - Venue: Wells Fargo Center
+[2018-12-14T15:07:12.765] [INFO] logFile - Location: Philadelphia, PA
+[2018-12-14T15:07:12.765] [INFO] logFile - Date: 03/26/2019
+[2018-12-14T15:07:12.765] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.767] [INFO] logFile - Venue: Quicken Loans Arena
+[2018-12-14T15:07:12.767] [INFO] logFile - Location: Cleveland, OH
+[2018-12-14T15:07:12.767] [INFO] logFile - Date: 03/28/2019
+[2018-12-14T15:07:12.767] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.780] [INFO] logFile - Venue: Mohegan Sun Arena
+[2018-12-14T15:07:12.780] [INFO] logFile - Location: Uncasville, CT
+[2018-12-14T15:07:12.780] [INFO] logFile - Date: 03/30/2019
+[2018-12-14T15:07:12.780] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.784] [INFO] logFile - Venue: Bell Centre
+[2018-12-14T15:07:12.785] [INFO] logFile - Location: Montréal, 
+[2018-12-14T15:07:12.785] [INFO] logFile - Date: 04/01/2019
+[2018-12-14T15:07:12.785] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.836] [INFO] logFile - Venue: Scotiabank Arena
+[2018-12-14T15:07:12.837] [INFO] logFile - Location: Toronto, 
+[2018-12-14T15:07:12.837] [INFO] logFile - Date: 04/03/2019
+[2018-12-14T15:07:12.837] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.848] [INFO] logFile - Venue: Little Caesars Arena
+[2018-12-14T15:07:12.848] [INFO] logFile - Location: Detroit, MI
+[2018-12-14T15:07:12.848] [INFO] logFile - Date: 04/05/2019
+[2018-12-14T15:07:12.848] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.854] [INFO] logFile - Venue: United Center
+[2018-12-14T15:07:12.855] [INFO] logFile - Location: Chicago, IL
+[2018-12-14T15:07:12.855] [INFO] logFile - Date: 04/07/2019
+[2018-12-14T15:07:12.855] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.865] [INFO] logFile - Venue: United Center
+[2018-12-14T15:07:12.865] [INFO] logFile - Location: Chicago, IL
+[2018-12-14T15:07:12.866] [INFO] logFile - Date: 04/08/2019
+[2018-12-14T15:07:12.866] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.885] [INFO] logFile - Venue: The Schottenstein Center
+[2018-12-14T15:07:12.885] [INFO] logFile - Location: Columbus, OH
+[2018-12-14T15:07:12.885] [INFO] logFile - Date: 04/10/2019
+[2018-12-14T15:07:12.885] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.900] [INFO] logFile - Venue: Bankers Life Fieldhouse
+[2018-12-14T15:07:12.900] [INFO] logFile - Location: Indianapolis, IN
+[2018-12-14T15:07:12.900] [INFO] logFile - Date: 04/12/2019
+[2018-12-14T15:07:12.900] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.912] [INFO] logFile - Venue: Enterprise Center
+[2018-12-14T15:07:12.912] [INFO] logFile - Location: St. Louis, MO
+[2018-12-14T15:07:12.912] [INFO] logFile - Date: 04/13/2019
+[2018-12-14T15:07:12.912] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.919] [INFO] logFile - Venue: Fiserv Forum
+[2018-12-14T15:07:12.919] [INFO] logFile - Location: Milwaukee, WI
+[2018-12-14T15:07:12.919] [INFO] logFile - Date: 04/15/2019
+[2018-12-14T15:07:12.919] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.950] [INFO] logFile - Venue: Xcel Energy Center
+[2018-12-14T15:07:12.950] [INFO] logFile - Location: St Paul, MN
+[2018-12-14T15:07:12.950] [INFO] logFile - Date: 04/17/2019
+[2018-12-14T15:07:12.951] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:12.981] [INFO] logFile - Venue: CHI Health Center
+[2018-12-14T15:07:12.981] [INFO] logFile - Location: Omaha, NE
+[2018-12-14T15:07:12.982] [INFO] logFile - Date: 04/18/2019
+[2018-12-14T15:07:12.982] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.014] [INFO] logFile - Venue: Pepsi Center
+[2018-12-14T15:07:13.014] [INFO] logFile - Location: Denver, CO
+[2018-12-14T15:07:13.014] [INFO] logFile - Date: 04/20/2019
+[2018-12-14T15:07:13.014] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.052] [INFO] logFile - Venue: Vivint Smart Home Arena
+[2018-12-14T15:07:13.052] [INFO] logFile - Location: Salt Lake City, UT
+[2018-12-14T15:07:13.052] [INFO] logFile - Date: 04/22/2019
+[2018-12-14T15:07:13.053] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.060] [INFO] logFile - Venue: Rogers Place
+[2018-12-14T15:07:13.060] [INFO] logFile - Location: Edmonton, 
+[2018-12-14T15:07:13.060] [INFO] logFile - Date: 04/25/2019
+[2018-12-14T15:07:13.060] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.071] [INFO] logFile - Venue: Rogers Arena
+[2018-12-14T15:07:13.071] [INFO] logFile - Location: Vancouver, 
+[2018-12-14T15:07:13.071] [INFO] logFile - Date: 04/27/2019
+[2018-12-14T15:07:13.071] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.079] [INFO] logFile - Venue: Moda Center
+[2018-12-14T15:07:13.079] [INFO] logFile - Location: Portland, OR
+[2018-12-14T15:07:13.080] [INFO] logFile - Date: 04/30/2019
+[2018-12-14T15:07:13.080] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.098] [INFO] logFile - Venue: SAP Center
+[2018-12-14T15:07:13.098] [INFO] logFile - Location: San Jose, CA
+[2018-12-14T15:07:13.098] [INFO] logFile - Date: 05/02/2019
+[2018-12-14T15:07:13.098] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.109] [INFO] logFile - Venue: Golden 1 Center
+[2018-12-14T15:07:13.109] [INFO] logFile - Location: Sacramento, CA
+[2018-12-14T15:07:13.109] [INFO] logFile - Date: 05/03/2019
+[2018-12-14T15:07:13.109] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.117] [INFO] logFile - Venue: STAPLES Center
+[2018-12-14T15:07:13.117] [INFO] logFile - Location: Los Angeles, CA
+[2018-12-14T15:07:13.118] [INFO] logFile - Date: 05/06/2019
+[2018-12-14T15:07:13.118] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.124] [INFO] logFile - Venue: Staples Center
+[2018-12-14T15:07:13.124] [INFO] logFile - Location: Los Angeles, CA
+[2018-12-14T15:07:13.124] [INFO] logFile - Date: 05/07/2019
+[2018-12-14T15:07:13.124] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.131] [INFO] logFile - Venue: The Forum
+[2018-12-14T15:07:13.131] [INFO] logFile - Location: Los Angeles, CA
+[2018-12-14T15:07:13.132] [INFO] logFile - Date: 05/10/2019
+[2018-12-14T15:07:13.132] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.140] [INFO] logFile - Venue: Talking Stick Resort Arena
+[2018-12-14T15:07:13.140] [INFO] logFile - Location: Phoenix, AZ
+[2018-12-14T15:07:13.140] [INFO] logFile - Date: 05/14/2019
+[2018-12-14T15:07:13.141] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.159] [INFO] logFile - Venue: AT&T Center
+[2018-12-14T15:07:13.159] [INFO] logFile - Location: San Antonio, TX
+[2018-12-14T15:07:13.159] [INFO] logFile - Date: 05/17/2019
+[2018-12-14T15:07:13.160] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.172] [INFO] logFile - Venue: Toyota Center
+[2018-12-14T15:07:13.172] [INFO] logFile - Location: Houston, TX
+[2018-12-14T15:07:13.172] [INFO] logFile - Date: 05/19/2019
+[2018-12-14T15:07:13.172] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.187] [INFO] logFile - Venue: American Airlines Center
+[2018-12-14T15:07:13.187] [INFO] logFile - Location: Dallas, TX
+[2018-12-14T15:07:13.187] [INFO] logFile - Date: 05/21/2019
+[2018-12-14T15:07:13.187] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.243] [INFO] logFile - Venue: Chesapeake Energy Arena
+[2018-12-14T15:07:13.243] [INFO] logFile - Location: Oklahoma City, OK
+[2018-12-14T15:07:13.244] [INFO] logFile - Date: 05/23/2019
+[2018-12-14T15:07:13.244] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.252] [INFO] logFile - Venue: Smoothie King Center
+[2018-12-14T15:07:13.252] [INFO] logFile - Location: New Orleans, LA
+[2018-12-14T15:07:13.253] [INFO] logFile - Date: 05/25/2019
+[2018-12-14T15:07:13.253] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.261] [INFO] logFile - Venue: Amalie Arena
+[2018-12-14T15:07:13.261] [INFO] logFile - Location: Tampa, FL
+[2018-12-14T15:07:13.262] [INFO] logFile - Date: 05/28/2019
+[2018-12-14T15:07:13.262] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.271] [INFO] logFile - Venue: Amway Center
+[2018-12-14T15:07:13.271] [INFO] logFile - Location: Orlando, FL
+[2018-12-14T15:07:13.271] [INFO] logFile - Date: 05/29/2019
+[2018-12-14T15:07:13.271] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.275] [INFO] logFile - Venue: American Airlines Arena
+[2018-12-14T15:07:13.275] [INFO] logFile - Location: Miami, FL
+[2018-12-14T15:07:13.275] [INFO] logFile - Date: 05/31/2019
+[2018-12-14T15:07:13.275] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.287] [INFO] logFile - Venue: American Airlines Arena
+[2018-12-14T15:07:13.287] [INFO] logFile - Location: Miami, FL
+[2018-12-14T15:07:13.287] [INFO] logFile - Date: 06/01/2019
+[2018-12-14T15:07:13.287] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.314] [INFO] logFile - Venue: PNC Arena
+[2018-12-14T15:07:13.314] [INFO] logFile - Location: Raleigh, NC
+[2018-12-14T15:07:13.314] [INFO] logFile - Date: 06/04/2019
+[2018-12-14T15:07:13.315] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.332] [INFO] logFile - Venue: Bridgestone Arena
+[2018-12-14T15:07:13.332] [INFO] logFile - Location: Nashville, TN
+[2018-12-14T15:07:13.332] [INFO] logFile - Date: 06/07/2019
+[2018-12-14T15:07:13.332] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.337] [INFO] logFile - Venue: State Farm Arena
+[2018-12-14T15:07:13.337] [INFO] logFile - Location: Atlanta, GA
+[2018-12-14T15:07:13.337] [INFO] logFile - Date: 06/08/2019
+[2018-12-14T15:07:13.338] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.352] [INFO] logFile - Venue: Spectrum Center
+[2018-12-14T15:07:13.352] [INFO] logFile - Location: Charlotte, NC
+[2018-12-14T15:07:13.352] [INFO] logFile - Date: 06/10/2019
+[2018-12-14T15:07:13.352] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.362] [INFO] logFile - Venue: PPG Paints Arena
+[2018-12-14T15:07:13.362] [INFO] logFile - Location: Pittsburgh, PA
+[2018-12-14T15:07:13.362] [INFO] logFile - Date: 06/12/2019
+[2018-12-14T15:07:13.362] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.391] [INFO] logFile - Venue: Barclays Center
+[2018-12-14T15:07:13.394] [INFO] logFile - Location: Brooklyn, NY
+[2018-12-14T15:07:13.394] [INFO] logFile - Date: 06/14/2019
+[2018-12-14T15:07:13.395] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.444] [INFO] logFile - Venue: Barclays Center
+[2018-12-14T15:07:13.444] [INFO] logFile - Location: Brooklyn, NY
+[2018-12-14T15:07:13.445] [INFO] logFile - Date: 06/15/2019
+[2018-12-14T15:07:13.445] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.457] [INFO] logFile - Venue: Madison Square Garden
+[2018-12-14T15:07:13.457] [INFO] logFile - Location: New York, NY
+[2018-12-14T15:07:13.457] [INFO] logFile - Date: 06/18/2019
+[2018-12-14T15:07:13.457] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.474] [INFO] logFile - Venue: Madison Square Garden
+[2018-12-14T15:07:13.474] [INFO] logFile - Location: New York, NY
+[2018-12-14T15:07:13.475] [INFO] logFile - Date: 06/19/2019
+[2018-12-14T15:07:13.475] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.492] [INFO] logFile - Venue: Capital One Arena
+[2018-12-14T15:07:13.493] [INFO] logFile - Location: Washington, DC
+[2018-12-14T15:07:13.493] [INFO] logFile - Date: 06/21/2019
+[2018-12-14T15:07:13.493] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.504] [INFO] logFile - Venue: TD Garden
+[2018-12-14T15:07:13.504] [INFO] logFile - Location: Boston, MA
+[2018-12-14T15:07:13.504] [INFO] logFile - Date: 06/22/2019
+[2018-12-14T15:07:13.504] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.513] [INFO] logFile - Venue: Wells Fargo Center
+[2018-12-14T15:07:13.513] [INFO] logFile - Location: Philadelphia, PA
+[2018-12-14T15:07:13.513] [INFO] logFile - Date: 06/24/2019
+[2018-12-14T15:07:13.513] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.518] [INFO] logFile - Venue: Scotiabank Arena
+[2018-12-14T15:07:13.518] [INFO] logFile - Location: Toronto, 
+[2018-12-14T15:07:13.519] [INFO] logFile - Date: 06/26/2019
+[2018-12-14T15:07:13.519] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.529] [INFO] logFile - Venue: The O2 Arena
+[2018-12-14T15:07:13.530] [INFO] logFile - Location: London, 
+[2018-12-14T15:07:13.530] [INFO] logFile - Date: 08/17/2019
+[2018-12-14T15:07:13.530] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.558] [INFO] logFile - Venue: Ziggo Dome
+[2018-12-14T15:07:13.558] [INFO] logFile - Location: Amsterdam, 
+[2018-12-14T15:07:13.558] [INFO] logFile - Date: 08/23/2019
+[2018-12-14T15:07:13.559] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.576] [INFO] logFile - Venue: AccorHotels Arena
+[2018-12-14T15:07:13.576] [INFO] logFile - Location: Paris, 
+[2018-12-14T15:07:13.576] [INFO] logFile - Date: 08/27/2019
+[2018-12-14T15:07:13.576] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.585] [INFO] logFile - Venue: Sportpaleis Antwerpen
+[2018-12-14T15:07:13.585] [INFO] logFile - Location: Antwerpen, 
+[2018-12-14T15:07:13.586] [INFO] logFile - Date: 08/30/2019
+[2018-12-14T15:07:13.586] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.647] [INFO] logFile - Venue: Lanxess Arena
+[2018-12-14T15:07:13.648] [INFO] logFile - Location: Köln, 
+[2018-12-14T15:07:13.648] [INFO] logFile - Date: 09/01/2019
+[2018-12-14T15:07:13.648] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.658] [INFO] logFile - Venue: Stadthalle
+[2018-12-14T15:07:13.658] [INFO] logFile - Location: Vienna, 
+[2018-12-14T15:07:13.658] [INFO] logFile - Date: 09/03/2019
+[2018-12-14T15:07:13.658] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.670] [INFO] logFile - Venue: Barclaycard Arena
+[2018-12-14T15:07:13.670] [INFO] logFile - Location: Hamburg, 
+[2018-12-14T15:07:13.670] [INFO] logFile - Date: 09/05/2019
+[2018-12-14T15:07:13.670] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.692] [INFO] logFile - Venue: O2 arena
+[2018-12-14T15:07:13.692] [INFO] logFile - Location: Praha 9, 
+[2018-12-14T15:07:13.693] [INFO] logFile - Date: 09/08/2019
+[2018-12-14T15:07:13.693] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.703] [INFO] logFile - Venue: Tauron Arena
+[2018-12-14T15:07:13.703] [INFO] logFile - Location: Kraków, 
+[2018-12-14T15:07:13.703] [INFO] logFile - Date: 09/09/2019
+[2018-12-14T15:07:13.704] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.712] [INFO] logFile - Venue: Arena Birmingham
+[2018-12-14T15:07:13.712] [INFO] logFile - Location: Birmingham, 
+[2018-12-14T15:07:13.712] [INFO] logFile - Date: 09/14/2019
+[2018-12-14T15:07:13.712] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.716] [INFO] logFile - Venue: The SSE Hydro
+[2018-12-14T15:07:13.717] [INFO] logFile - Location: Glasgow, 
+[2018-12-14T15:07:13.717] [INFO] logFile - Date: 09/17/2019
+[2018-12-14T15:07:13.717] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.724] [INFO] logFile - Venue: FlyDSA Arena
+[2018-12-14T15:07:13.724] [INFO] logFile - Location: Sheffield, 
+[2018-12-14T15:07:13.724] [INFO] logFile - Date: 09/19/2019
+[2018-12-14T15:07:13.724] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.743] [INFO] logFile - Venue: 3Arena
+[2018-12-14T15:07:13.743] [INFO] logFile - Location: Dublin 1, 
+[2018-12-14T15:07:13.743] [INFO] logFile - Date: 09/22/2019
+[2018-12-14T15:07:13.744] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.765] [INFO] logFile - Venue: Royal Arena
+[2018-12-14T15:07:13.765] [INFO] logFile - Location: Copenhagen, 
+[2018-12-14T15:07:13.765] [INFO] logFile - Date: 10/01/2019
+[2018-12-14T15:07:13.766] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.779] [INFO] logFile - Venue: Telenor Arena
+[2018-12-14T15:07:13.779] [INFO] logFile - Location: Oslo, 
+[2018-12-14T15:07:13.779] [INFO] logFile - Date: 10/03/2019
+[2018-12-14T15:07:13.779] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.787] [INFO] logFile - Venue: Hartwall Arena
+[2018-12-14T15:07:13.788] [INFO] logFile - Location: HKI, 
+[2018-12-14T15:07:13.791] [INFO] logFile - Date: 10/05/2019
+[2018-12-14T15:07:13.791] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.844] [INFO] logFile - Venue: Ericsson Globe
+[2018-12-14T15:07:13.844] [INFO] logFile - Location: Stockholm, 
+[2018-12-14T15:07:13.845] [INFO] logFile - Date: 10/07/2019
+[2018-12-14T15:07:13.845] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.858] [INFO] logFile - Venue: Mercedes-Benz-Arena
+[2018-12-14T15:07:13.858] [INFO] logFile - Location: Berlin, 
+[2018-12-14T15:07:13.858] [INFO] logFile - Date: 10/10/2019
+[2018-12-14T15:07:13.858] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:13.866] [INFO] logFile - Venue: Hallenstadion
+[2018-12-14T15:07:13.866] [INFO] logFile - Location: Zürich, 
+[2018-12-14T15:07:13.867] [INFO] logFile - Date: 10/13/2019
+[2018-12-14T15:07:13.867] [INFO] logFile - ---------------------------------
+[2018-12-14T15:07:22.037] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:22.040] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>> NEW COMMAND >>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:22.041] [TRACE] logFile - [Command Log]: spotify-this-song
+[2018-12-14T15:07:22.041] [TRACE] logFile - <<<<<<<<<<<<<<<<<< RESPONSE BELOW <<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:22.041] [TRACE] logFile - <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:22.525] [INFO] logFile - Song: The Sign
+[2018-12-14T15:07:22.525] [INFO] logFile - Artist: Ace of Base
+[2018-12-14T15:07:22.525] [INFO] logFile - Spotify Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+[2018-12-14T15:07:22.525] [INFO] logFile - Album: The Sign (US Album) [Remastered]
+[2018-12-14T15:07:28.640] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:28.644] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>> NEW COMMAND >>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:28.644] [TRACE] logFile - [Command Log]: spotify-this-song the middle
+[2018-12-14T15:07:28.644] [TRACE] logFile - <<<<<<<<<<<<<<<<<< RESPONSE BELOW <<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:28.644] [TRACE] logFile - <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:29.273] [INFO] logFile - Song: The Middle
+[2018-12-14T15:07:29.273] [INFO] logFile - Artist: Zedd
+[2018-12-14T15:07:29.273] [INFO] logFile - Spotify Link: https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc
+[2018-12-14T15:07:29.273] [INFO] logFile - Album: The Middle
+[2018-12-14T15:07:38.312] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:38.316] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>> NEW COMMAND >>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:38.316] [TRACE] logFile - [Command Log]: movie-this
+[2018-12-14T15:07:38.316] [TRACE] logFile - <<<<<<<<<<<<<<<<<< RESPONSE BELOW <<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:38.316] [TRACE] logFile - <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:38.435] [INFO] logFile - Title: Mr. Nobody
+[2018-12-14T15:07:38.435] [INFO] logFile - Year: 2009
+[2018-12-14T15:07:38.435] [INFO] logFile - IMDB Rating: 7.9
+[2018-12-14T15:07:38.435] [INFO] logFile - Rotten Tomatoes Rating: 67%
+[2018-12-14T15:07:38.435] [INFO] logFile - Country of Production: Belgium, Germany, Canada, France, USA, UK
+[2018-12-14T15:07:38.435] [INFO] logFile - Language: English, Mohawk
+[2018-12-14T15:07:38.435] [INFO] logFile - Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+[2018-12-14T15:07:38.435] [INFO] logFile - Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+[2018-12-14T15:07:47.871] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:47.875] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>> NEW COMMAND >>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:07:47.875] [TRACE] logFile - [Command Log]: movie-this pirates of the caribbean
+[2018-12-14T15:07:47.875] [TRACE] logFile - <<<<<<<<<<<<<<<<<< RESPONSE BELOW <<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:47.875] [TRACE] logFile - <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:07:48.013] [INFO] logFile - Title: Pirates of the Caribbean: The Curse of the Black Pearl
+[2018-12-14T15:07:48.013] [INFO] logFile - Year: 2003
+[2018-12-14T15:07:48.013] [INFO] logFile - IMDB Rating: 8.0
+[2018-12-14T15:07:48.013] [INFO] logFile - Rotten Tomatoes Rating: 79%
+[2018-12-14T15:07:48.013] [INFO] logFile - Country of Production: USA
+[2018-12-14T15:07:48.013] [INFO] logFile - Language: English
+[2018-12-14T15:07:48.013] [INFO] logFile - Plot: Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.
+[2018-12-14T15:07:48.013] [INFO] logFile - Actors: Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley
+[2018-12-14T15:08:07.734] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:08:07.738] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>> NEW COMMAND >>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:08:07.738] [TRACE] logFile - [Command Log]: do-what-it-says
+[2018-12-14T15:08:07.738] [TRACE] logFile - <<<<<<<<<<<<<<<<<< RESPONSE BELOW <<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:08:07.738] [TRACE] logFile - <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:08:08.244] [INFO] logFile - Song: Jingle Bell Rock
+[2018-12-14T15:08:08.244] [INFO] logFile - Artist: Bobby Helms
+[2018-12-14T15:08:08.244] [INFO] logFile - Spotify Link: https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya
+[2018-12-14T15:08:08.244] [INFO] logFile - Album: Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)
+[2018-12-14T15:08:29.175] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:08:29.181] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>> NEW COMMAND >>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:08:29.181] [TRACE] logFile - [Command Log]: do-what-it-says
+[2018-12-14T15:08:29.181] [TRACE] logFile - <<<<<<<<<<<<<<<<<< RESPONSE BELOW <<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:08:29.181] [TRACE] logFile - <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:08:29.313] [INFO] logFile - Title: Gone with the Wind
+[2018-12-14T15:08:29.314] [INFO] logFile - Year: 1939
+[2018-12-14T15:08:29.314] [INFO] logFile - IMDB Rating: 8.2
+[2018-12-14T15:08:29.314] [INFO] logFile - Rotten Tomatoes Rating: 92%
+[2018-12-14T15:08:29.314] [INFO] logFile - Country of Production: USA
+[2018-12-14T15:08:29.314] [INFO] logFile - Language: English
+[2018-12-14T15:08:29.314] [INFO] logFile - Plot: A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+[2018-12-14T15:08:29.314] [INFO] logFile - Actors: Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes
+[2018-12-14T15:08:39.275] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:08:39.280] [TRACE] logFile - >>>>>>>>>>>>>>>>>>>> NEW COMMAND >>>>>>>>>>>>>>>>>>>>
+[2018-12-14T15:08:39.280] [TRACE] logFile - [Command Log]: test non-valid command
+[2018-12-14T15:08:39.280] [TRACE] logFile - <<<<<<<<<<<<<<<<<< RESPONSE BELOW <<<<<<<<<<<<<<<<<<<
+[2018-12-14T15:08:39.280] [TRACE] logFile - <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
